@@ -1,0 +1,34 @@
+# ---- 資料（依 SRDA 使用規範，原始資料與任何個人層級的衍生資料皆不可公開）----
+data/*
+!data/README.md
+*.dta
+*.sav
+*.sas7bdat
+*.por
+*.xpt
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# ---- LaTeX 編譯產生的暫存檔 ----
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# ---- 系統檔 ----
+.DS_Store
+Thumbs.db
+desktop.ini

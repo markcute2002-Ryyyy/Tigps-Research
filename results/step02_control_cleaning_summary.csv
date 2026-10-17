@@ -1,0 +1,10 @@
+﻿variable,source_column,clean_column,total_N,raw_missing_N(含合併失敗),clean_nonmissing_N,clean_missing_N
+as1,as1,as1_clean,8905,586.0,8311,594
+as4d1,as4d1,as4d1_clean,8905,586.0,8276,629
+as10,as10,as10_clean,8905,586.0,8297,608
+as5,as5,as5_clean,8905,586.0,8132,773
+as8_1,as8_1,as8_1_clean,8905,586.0,8292,613
+as8_2,as8_2,as8_2_clean,8905,586.0,8292,613
+school_type,school_type_w1,school_type_w1_clean,8905,586.0,8319,586
+digi_level,digi_level_w1,digi_level_w1_clean,8905,0.0,8319,586
+as8_any（as8_1/as8_2 合併）,"as8_1_clean, as8_2_clean",as8_any_clean,8905,,8292,613
